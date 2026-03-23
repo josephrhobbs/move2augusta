@@ -10,7 +10,7 @@ Note: _apartments are listed in alphabetical order_.
 
 ::tile[Benson Estates][Hephzibah, GA][/apartments/benson-estates][/media/apartment.jpg]
 
-::tile[MacArthur Park Apartments][Augusta, GA][/apartments/macarthur-park][/media/apartment.jpg]
+::tile[MacArthur Park][Augusta, GA][/apartments/macarthur-park][/media/apartment.jpg]
 
 ::tile[McHenry Square][Augusta, GA][/apartments/mchenry-square][/media/apartment.jpg]
 
