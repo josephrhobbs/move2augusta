@@ -1,4 +1,4 @@
-# The Pointe at Augusta
+# The Pointe
 
 ~
 

@@ -1,4 +1,4 @@
-# Sanctuary Apartments
+# Sanctuary
 
 ~
 
