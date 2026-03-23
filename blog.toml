@@ -7,4 +7,6 @@ names = ["Home", "Apartments"]
 links = ["/", "/apartments"]
 
 [media]
-include = []
+include = [
+    "apartment.jpg",
+]

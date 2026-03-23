@@ -2,16 +2,16 @@
 
 ~
 
-Below are a collection of pages about different apartment complexes in the Augusta area.  Click on each name to learn more!
+Below is a collection of pages about different apartment complexes in the Augusta area.  Click on each name to learn more!
 
-[MacArthur Park Apartments](/apartments/macarthur-park)
+::tile[MacArthur Park Apartments][Augusta, GA][/apartments/macarthur-park][/media/apartment.jpg]
 
-[Benson Estates](/apartments/benson-estates)
+::tile[Benson Estates][Hephzibah, GA][/apartments/benson-estates][/media/apartment.jpg]
 
-[McHenry Square](/apartments/mchenry-square)
+::tile[McHenry Square][Augusta, GA][/apartments/mchenry-square][/media/apartment.jpg]
 
-[Sanctuary Apartments](/apartments/sanctuary-apartments)
+::tile[Sanctuary Apartments][Augusta, GA][/apartments/sanctuary-apartments][/media/apartment.jpg]
 
-[Avalon Apartments](/apartments/avalon-apartments)
+::tile[Avalon Apartments][Augusta, GA][/apartments/avalon-apartments][/media/apartment.jpg]
 
-[The Pointe at Augusta](/apartments/the-pointe-at-augusta)
+::tile[The Pointe at Augusta][Augusta, GA][/apartments/the-pointe-at-augusta][/media/apartment.jpg]
