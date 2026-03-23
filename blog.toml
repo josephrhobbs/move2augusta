@@ -4,8 +4,8 @@ style = "tech"
 icon = "media/favicon.ico"
 
 [menu]
-names = ["Home", "Apartments", "Contributing"]
-links = ["/", "/apartments", "/contributing"]
+names = ["Home", "Apartments", "Food", "Activities", "Contributing"]
+links = ["/", "/apartments", "/food", "/activities", "/contributing"]
 
 [media]
 include = [
