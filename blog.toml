@@ -1,5 +1,10 @@
 [site]
 name = "My New Website"
+style = "tech"
+
+[menu]
+names = ["Home", "Apartments"]
+links = ["/", "/apartments"]
 
 [media]
 include = []
