@@ -2,7 +2,7 @@
 
 ~
 
-Below is a collection of pages about different apartment complexes in the Augusta area.  Click on each name to learn more!
+Below is a collection of pages about different apartment complexes in the Augusta area.  You can learn more about an apartment complex by clicking on the corresponding tile.
 
 ::tile[MacArthur Park Apartments][Augusta, GA][/apartments/macarthur-park][/media/apartment.jpg]
 
