@@ -1,6 +1,7 @@
 [site]
 name = "Move2Augusta"
 style = "tech"
+icon = "media/favicon.ico"
 
 [menu]
 names = ["Home", "Apartments", "Contributing"]
