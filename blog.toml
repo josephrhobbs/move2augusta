@@ -3,8 +3,8 @@ name = "Move2Augusta"
 style = "tech"
 
 [menu]
-names = ["Home", "Apartments"]
-links = ["/", "/apartments"]
+names = ["Home", "Apartments", "Contributing"]
+links = ["/", "/apartments", "/contributing"]
 
 [media]
 include = [
