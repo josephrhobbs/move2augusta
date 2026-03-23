@@ -23,7 +23,7 @@ Washers and dryers are **included** in all units.
 
 ## Security & Parking
 
-The community is gated.  Parking is available for all residents.  The parking lot is outdoors, uncovered, and access-controlled.  EV chargers are available for a fee.
+The community is gated.  Parking is outdoors, uncovered, and access-controlled.  EV chargers are available for a fee.
 
 ## Website
 

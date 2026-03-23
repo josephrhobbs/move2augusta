@@ -14,8 +14,6 @@ Note: _apartments are listed in alphabetical order_.
 
 ::tile[McHenry Square][Augusta, GA][/apartments/mchenry-square][/media/apartment.jpg]
 
-::tile[The Pointe at Augusta][Augusta, GA][/apartments/the-pointe-at-augusta][/media/apartment.jpg]
-
 ::tile[Sanctuary Apartments][Augusta, GA][/apartments/sanctuary-apartments][/media/apartment.jpg]
 
 

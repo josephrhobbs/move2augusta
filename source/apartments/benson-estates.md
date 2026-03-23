@@ -21,7 +21,7 @@ Washers and dryers are **not included** in units.  Hook-ups may be available.  C
 
 ## Security & Parking
 
-The community is not gated.  Augusta Police has stationed a "Courtesy Officer" at Benson Estates for security.
+The community is not gated.  Parking is outdoors, uncovered, and not access-controlled.  Augusta Police has stationed a "Courtesy Officer" at Benson Estates for security.
 
 ## Website
 

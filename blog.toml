@@ -10,4 +10,5 @@ links = ["/", "/apartments", "/food", "/activities", "/contributing"]
 [media]
 include = [
     "apartment.jpg",
+    "bbq.png",
 ]
