@@ -14,4 +14,4 @@ Below are a collection of pages about different apartment complexes in the Augus
 
 [Avalon Apartments](/apartments/avalon-apartments)
 
-[The Poine at Augusta](/apartments/the-pointe-at-augusta)
+[The Pointe at Augusta](/apartments/the-pointe-at-augusta)
