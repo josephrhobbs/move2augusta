@@ -23,8 +23,8 @@ Washers and dryers are **included** in all units.
 
 ## Security & Parking
 
-The community is not gated.  A personal communication between the Editor and a current resident suggests that the neighborhood is very safe.
+The community is gated.  Parking is available for all residents.  The parking lot is outdoors, uncovered, and access-controlled.  EV chargers are available for a fee.
 
 ## Website
 
-[mchenrysquareapts.com](https://www.mchenrysquareapts.com/)
+[liveatmacarthurpark.com](https://www.liveatmacarthurpark.com/)
